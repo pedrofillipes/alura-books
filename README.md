@@ -16,6 +16,8 @@
 
 <p align="justify">
   Projeto desenvolvido durante o curso de responsividade com mobile first da Alura.
+  
+  Instrutora: [Monica Hillman](https://github.com/MonicaHillman)
 </p>
 <br>
 
@@ -30,7 +32,7 @@
 
 ## Deploy da Aplicação
 
-> Link do deploy da aplicação.
+> https://pedrofillipes.github.io/alurabooks/
 <br>
 
 ## Desenvolvedor
