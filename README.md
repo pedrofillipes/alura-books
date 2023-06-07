@@ -32,7 +32,7 @@
 
 ## Deploy da Aplicação
 
-> https://pedrofillipes.github.io/alurabooks/
+> https://pedrofillipes.github.io/alura-books/
 <br>
 
 ## Desenvolvedor
